@@ -1,0 +1,32 @@
+.heading 
+{
+    width: 100%;
+    font-size: 23px;
+    margin: 0px;
+    color: black;
+}
+.note
+{
+    font-size: 15;
+    color: black;
+}
+#volume
+{
+  font-size: 23px;
+  margin: 15px;
+}
+canvas
+{
+  border-radius: 20px solid white;
+  border: white;
+}
+#song
+{
+    background-color: rgb(255, 0, 0);
+    font-size: 25px;
+    width: 230px;
+    color: white;
+    border-radius: 10px;
+    
+    text-align: center;
+}
